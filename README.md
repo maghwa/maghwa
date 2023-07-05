@@ -1,6 +1,8 @@
+![girl-hacker](https://github.com/maghwa/maghwa/assets/87017143/137dca06-0c94-4324-8f02-8c240a8ae73e)
+
+
+
 ### Hi there 👋 I'm Maghwa  
-
-
 
 # 💫 About Me:
 🎓 4th year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br><br>📫 How to reach me elkamilmarwa218@gmail.com
