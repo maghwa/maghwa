@@ -7,8 +7,9 @@
 # 💫 About Me:
 🎓 4th year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br><br>📫 How to reach me elkamilmarwa218@gmail.com
 
-## 🥇 Badges :
-![qjjd1h0csuzlmnjdksun](https://github.com/maghwa/maghwa/assets/87017143/d028038f-7cfe-432f-9644-87a126d59ad6)
+## 🥇 Badges:
+<img src="https://github.com/maghwa/maghwa/raw/main/assets/87017143/qjjd1h0csuzlmnjdksun.png" alt="badge" width="100" height="100">
+
 
 
 ## 🌐 Socials:
