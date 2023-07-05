@@ -12,7 +12,7 @@
 <div style="display: flex;">
   <img src="https://github.com/maghwa/maghwa/raw/main/assets/87017143/3bd1258d-8e23-4e8d-af4b-0374ec46d119.png" alt="badge 1" style="width: 100px; height: 100px;">
   <img src="https://github.com/maghwa/maghwa/raw/main/assets/87017143/54a3f1d6-5f1b-4eef-bb6f-3509b48f72e0.png" alt="badge 2" style="width: 100px; height: 100px;">
-  <img src="https://github.com/maghwa/maghwa/raw/main/assets/87017143/1b089aa7-d9fa-4865-b338-50c0b2e6ee23.png" alt="badge 3" style="width: 100px; height: 100px;">
+  <img src="[https://github.com/maghwa/maghwa/raw/main/assets/87017143/1b089aa7-d9fa-4865-b338-50c0b2e6ee23.png](https://github.com/maghwa/maghwa/blob/main/4844503.png)" alt="badge 3" style="width: 100px; height: 100px;">
 </div>
 
 
