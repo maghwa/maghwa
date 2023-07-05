@@ -7,6 +7,9 @@
 # 💫 About Me:
 🎓 4th year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br><br>📫 How to reach me elkamilmarwa218@gmail.com
 
+## 🥇 Badges :
+![qjjd1h0csuzlmnjdksun](https://github.com/maghwa/maghwa/assets/87017143/d028038f-7cfe-432f-9644-87a126d59ad6)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/marwa__) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/marwa.elkamil.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-el-kamil-17168822b/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Maghwa-Km) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/15962540/maghwaaaa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maaghwaaa) 
