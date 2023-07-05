@@ -7,8 +7,10 @@
 ## 💫 About Me:
 🎓 4th year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br><br>📫 How to reach me elkamilmarwa218@gmail.com
 
+
 ## 🥇 Badges:
-<img src="https://github.com/maghwa/maghwa/raw/main/assets/87017143/qjjd1h0csuzlmnjdksun.png" alt="badge" width="100" height="100">
+<img src="https://raw.githubusercontent.com/maghwa/maghwa/main/assets/87017143/qjjd1h0csuzlmnjdksun.png" alt="badge" width="100" height="100">
+![63188c97fbd0a646ced923da_microsoft-azure-fundamentals-official-training-certification](https://github.com/maghwa/maghwa/assets/87017143/14d3be2f-53b5-4010-8478-3bafea7a3cdf)
 
 
 
