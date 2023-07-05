@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Maghwa ![image](https://github.com/maghwa/maghwa/assets/87017143/febd52e2-cba7-457a-99cb-72d91bf46db4)
+### Hi there 👋 I'm Maghwa  
 
 
 
 # 💫 About Me:
-🎓 4th year student at @Euromed University of Fez<br><br>🔭 I’m currently working on some cool projects<br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br><br>📫 How to reach me elkamilmarwa218@gmail.com
+🎓 4th year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br><br>📫 How to reach me elkamilmarwa218@gmail.com
 
 
 ## 🌐 Socials:
