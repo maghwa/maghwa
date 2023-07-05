@@ -1,4 +1,4 @@
-![tis100-sad](https://github.com/maghwa/maghwa/assets/87017143/ba626687-a4d2-4ef8-ae2c-0e51ec3ef48e)
+![new-game-ahagon-umiko-programming](https://github.com/maghwa/maghwa/assets/87017143/f2ae85a5-0f53-4b93-8a64-436d250745ec)
 
 
 
