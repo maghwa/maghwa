@@ -1,12 +1,11 @@
-![new-game-ahagon-umiko-programming](https://github.com/maghwa/maghwa/assets/87017143/f2ae85a5-0f53-4b93-8a64-436d250745ec)
+  ![new-game-ahagon-umiko-programming](https://github.com/maghwa/maghwa/assets/87017143/f2ae85a5-0f53-4b93-8a64-436d250745ec)
 
 
 
-### Hi there 👋
+  ### Hi there 👋
 
 ## 💫 About Me:
-🎓 4th AI year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br>
-
+🎓 4th AI year student at @Euromed University of Fez<br><br>
 
 
 
