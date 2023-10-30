@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ## 💫 About Me:
-🎓 4th year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br>
+🎓 4th AI year student at @Euromed University of Fez<br><br>🔭 I am currently working on something cool. :shipit: <br><br>🌱 I’m currently learning AI <br><br>💬 Ask me anything about what I know, and I would be glad to share it with you<br>
 
 
 
