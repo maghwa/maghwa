@@ -2,10 +2,7 @@
 
 
 
-  ### Hi there 👋
 
-## 💫 About Me:
-🎓 4th AI year student at @Euromed University of Fez<br><br>
 
 
 
